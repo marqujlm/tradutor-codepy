@@ -6,6 +6,8 @@ st.set_page_config(
     page_icon='codepy.jpeg'
 )
 
+st.image('email.png')
+
 translator = Translator()
 
 st.title('Tradutor Inglês <> Português')
